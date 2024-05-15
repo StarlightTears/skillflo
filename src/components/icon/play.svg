@@ -1,0 +1,20 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_b_1694_5088)">
+<circle cx="30" cy="30" r="30" fill="url(#paint0_radial_1694_5088)" fill-opacity="0.15"/>
+<circle cx="30" cy="30" r="29" stroke="white" stroke-width="2"/>
+</g>
+<path opacity="0.8" d="M20.3476 30.215L20.3476 16.1044C20.3476 14.346 22.3304 13.3187 23.7669 14.3329L43.7534 28.4439C44.977 29.3078 44.9772 31.1226 43.7538 31.9867L23.7674 46.1044C22.331 47.119 20.3477 46.0918 20.3477 44.3332L20.3476 30.215Z" fill="white"/>
+<defs>
+<filter id="filter0_b_1694_5088" x="-10" y="-10" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImage" stdDeviation="5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1694_5088"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1694_5088" result="shape"/>
+</filter>
+<radialGradient id="paint0_radial_1694_5088" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(29.7532 30) rotate(87.3589) scale(30.0319 30.0431)">
+<stop/>
+<stop offset="0.41193"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

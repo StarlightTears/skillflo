@@ -1,0 +1,27 @@
+{
+  "id": 10046,
+  "type": "MAJOR_ENT",
+  "state": "NORMAL",
+  "flags": null,
+  "code": null,
+  "name": "SKILLFLO",
+  "description": null,
+  "extras": {
+    "jobIds": [
+      10000
+    ],
+    "address": "서울 강남구 테헤란로 231",
+    "rankIds": [
+      10012
+    ],
+    "footNote": "123123",
+    "postCode": "06142",
+    "businessNo": "123-12-31231",
+    "addressExtra": "123123",
+    "contractCount": 1,
+    "isUseExhibition": false,
+    "isUseStudyGuide": false
+  },
+  "created_at": "2023-04-08T16:46:47.441Z",
+  "updated_at": "2023-04-08T16:48:11.000Z"
+}

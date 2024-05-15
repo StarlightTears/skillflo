@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 12064,
+      "type": "NOTICE",
+      "name": "머신공지",
+      "state": "NORMAL",
+      "createdAt": "2023-09-03T10:30:06.000Z",
+      "updatedAt": "2023-09-03T10:30:06.000Z",
+      "extras": {
+        "priority": 99,
+        "content": "머신공지본문",
+        "tags": "LXP_COURSE",
+        "exposedStartedAt": "2023-10-03T14:59:59.000Z",
+        "exposedEndedAt": "2023-09-02T15:00:00.000Z",
+        "attached": []
+      }
+    },
+    {
+      "id": 12065,
+      "type": "NOTICE",
+      "name": "공지공지",
+      "state": "NORMAL",
+      "createdAt": "2023-09-02T03:56:18.000Z",
+      "updatedAt": "2023-09-02T03:56:18.000Z",
+      "extras": {
+        "priority": 99,
+        "content": "본문본문",
+        "tags": "LXP_COURSE",
+        "exposedStartedAt": "2023-10-02T14:59:59.000Z",
+        "exposedEndedAt": "2023-09-01T15:00:00.000Z",
+        "attached": []
+      }
+    }
+  ],
+  "meta": {
+    "total": 2
+  }
+}

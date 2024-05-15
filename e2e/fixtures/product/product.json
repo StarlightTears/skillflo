@@ -1,0 +1,63 @@
+{
+  "id": 10746,
+  "type": "ALL",
+  "state": "NORMAL",
+  "flags": 0,
+  "code": "",
+  "name": "주술회전상품2",
+  "description": "",
+  "extras": {
+    "isFree": false,
+    "points": {
+      "exam": 25,
+      "task": 15,
+      "total": 100,
+      "progress": 60
+    },
+    "creatorId": 10000,
+    "tracseTme": 0,
+    "updaterId": 10000,
+    "customerId": 10096,
+    "publicName": "주술회전상품2",
+    "requesterId": 10000,
+    "totalAmount": 10000,
+    "cancelAmount": 5,
+    "remainAmount": 9994,
+    "courseEndedAt": "2024-10-31T14:59:59.000Z",
+    "memberGroupId": 10085,
+    "courseStartedAt": "2023-08-30T15:00:00.000Z",
+    "connectedCourses": [
+      {
+        "id": 10000,
+        "isSeekable": true,
+        "isCourseExposure": true
+      },
+      {
+        "id": 10001,
+        "isSeekable": true,
+        "isCourseExposure": true
+      },
+      {
+        "id": 10002,
+        "isSeekable": true,
+        "isCourseExposure": true
+      }
+    ],
+    "isAutoEnrollment": false,
+    "registeredAmount": 1,
+    "enrollmentEndedAt": "2024-06-30T14:59:59.000Z",
+    "isEnrollmentCancel": false,
+    "isQnaBoardExposure": true,
+    "enrollmentStartedAt": "2023-08-30T15:00:00.000Z",
+    "isImmediateApproval": true,
+    "criteriaForCompletion": {
+      "exam": 0,
+      "task": 0,
+      "total": 60,
+      "progress": 60
+    },
+    "enrollmentCourseNumberLimit": 10000
+  },
+  "created_at": "2023-08-31T01:47:16.604Z",
+  "updated_at": "2023-09-05T09:10:55.000Z"
+}

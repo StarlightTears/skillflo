@@ -1,0 +1,33 @@
+[
+  {
+    "id": 10511,
+    "type": "STUDENT",
+    "state": "NORMAL",
+    "flags": null,
+    "code": null,
+    "name": "skillflo@skillflo.io",
+    "description": null,
+    "extras": {
+      "name": "Skillflo",
+      "role": "student",
+      "jobId": 0,
+      "phone": "01012345678",
+      "rankId": 0,
+      "groupId": 10036,
+      "division": "",
+      "password": "",
+      "subPhone": "",
+      "accountId": 10275,
+      "customerId": 10046,
+      "permissions": [
+        "ALL/backoffice/account",
+        "ALL/backoffice/account-device",
+        "ALL/backoffice/member"
+      ],
+      "lastSignInDate": "2023-04-09T10:00:49.322Z",
+      "connectCompanyMemberId": ""
+    },
+    "created_at": "2023-04-09T10:00:00.604Z",
+    "updated_at": "2023-04-09T10:00:49.000Z"
+  }
+]

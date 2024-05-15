@@ -1,0 +1,10 @@
+{
+  "data": {
+    "jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjdWlkIjoic3VwZXJBZG1pbi0xMDAwMCIsImV4cHQiOjQ4Mzc2MzMyMzMsIm1jIjpbeyJtY2tleSI6IjEycTdoWEd6In1dfQ.UlDuBb1QJx6CwZB7tH9GYGmCnYbse_27JNnKM6bH-Fc",
+    "courseContentId": 10001,
+    "isIntroContained": false,
+    "state": "ONGOING",
+    "position": 0,
+    "progressBarSeekablePosition": -1
+  }
+}

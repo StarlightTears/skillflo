@@ -1,0 +1,189 @@
+{
+  "data": {
+    "ongoingCourses": [
+      {
+        "id": 10000,
+        "state": "NORMAL",
+        "type": "ONLINE",
+        "name": "올인원 패키지 : C#과 유니티로 배우는 게임개발",
+        "extras": {
+          "thumbnail": {
+            "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202111/110220-472/게임형---c-과-유니티로-배우는-게임-개발.jpg",
+            "name": "게임형 _ C#과 유니티로 배우는 게임 개발.jpg"
+          },
+          "publicName": "C#과 유니티로 배우는 게임 개발 올인원 패키지 Online test 킹갓언리얼",
+          "contractEndAt": "2030-12-31 00: 00: 00",
+          "totalPlayTime": 197441,
+          "contractBeginAt": "2020-01-21 00:00:00",
+          "exposedCategory": [
+            {
+              "depth1stId": 10000,
+              "depth2ndId": 10012
+            }
+          ],
+          "totalCourseContentCount": 177
+        },
+        "product": {
+          "id": 10003,
+          "type": "ALL",
+          "state": "NORMAL",
+          "name": "B2B - All Plan",
+          "extras": {
+            "isFree": false,
+            "publicName": "B2B - All Plan",
+            "courseEndedAt": "2050-12-31T14:59:59.000Z",
+            "courseStartedAt": "2023-03-02T15:00:00.000Z",
+            "originProductId": 10000,
+            "enrollmentEndedAt": "2050-12-31T14:59:59.000Z",
+            "enrollmentStartedAt": "2023-03-02T15:00:00.000Z"
+          }
+        },
+        "periodPermissions": ["APPLY", "ONGOING"],
+        "requiredCourse": {
+          "id": 11864,
+          "type": "REQUIRED_COURSE",
+          "state": "NORMAL",
+          "name": "필수강의",
+          "member_id": 10718,
+          "course_id": 10000,
+          "product_id": 10003,
+          "extras": {
+            "points": {
+              "exam": 0,
+              "task": 0,
+              "total": 100,
+              "progress": 100
+            },
+            "isProductPoints": true,
+            "criteriaForCompletion": {
+              "exam": 0,
+              "task": 0,
+              "total": 80,
+              "progress": 80
+            },
+            "requiredCourseEndedAt": "2050-12-31T14:59:59.000Z",
+            "requiredCourseStartedAt": "2023-07-04T02:35:17.974Z",
+            "isProductCriteriaForCompletion": true
+          }
+        },
+        "enrollment": {
+          "courseId": 10000,
+          "memberId": 10718,
+          "productId": 10003,
+          "id": 62352,
+          "state": "COMPLETED",
+          "type": "ENROLLMENT",
+          "extras": {
+            "event": "AUTO",
+            "totalScore": 1.5,
+            "courseCompletion": false,
+            "classroomEnteredAt": "2023-07-31T07:29:06.054Z"
+          }
+        }
+      },
+      {
+        "id": 10001,
+        "state": "NORMAL",
+        "type": "ONLINE",
+        "name": "The RED : 현실 세상의 TDD by 이규원",
+        "extras": {
+          "thumbnail": {
+            "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202102/105243-263/the-red-thumbnail1-8.png",
+            "file": {},
+            "name": "the red_thumbnail1-8.png"
+          },
+          "publicName": "The RED : 이규원의 현실 세상의 TDD : 안정감을 주는 코드 작성 방법",
+          "contractEndAt": "2025-02-06 00:00:00",
+          "totalPlayTime": 39064,
+          "originCourseId": 10001,
+          "contractBeginAt": "2021-02-05 00:00:00",
+          "exposedCategory": [
+            {
+              "depth1stId": 10000,
+              "depth2ndId": 10013
+            }
+          ],
+          "totalCourseContentCount": 23
+        },
+        "product": {
+          "id": 10003,
+          "type": "ALL",
+          "state": "NORMAL",
+          "name": "B2B - All Plan",
+          "extras": {
+            "isFree": false,
+            "publicName": "B2B - All Plan",
+            "courseEndedAt": "2050-12-31T14:59:59.000Z",
+            "courseStartedAt": "2023-03-02T15:00:00.000Z",
+            "originProductId": 10000,
+            "enrollmentEndedAt": "2050-12-31T14:59:59.000Z",
+            "enrollmentStartedAt": "2023-03-02T15:00:00.000Z"
+          }
+        },
+        "periodPermissions": ["APPLY", "ONGOING"],
+        "enrollment": {
+          "courseId": 10001,
+          "memberId": 10718,
+          "productId": 10003,
+          "id": 62353,
+          "state": "COMPLETED",
+          "type": "ENROLLMENT",
+          "extras": {
+            "event": "AUTO"
+          }
+        }
+      },
+      {
+        "id": 10002,
+        "state": "NORMAL",
+        "type": "ONLINE",
+        "name": "올인원 패키지 : 세계 3등에게 배우는 실무 밀착 데이터 시각화",
+        "extras": {
+          "thumbnail": {
+            "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202210/041304-539/bridge-image.webp",
+            "name": "bridge_image.webp"
+          },
+          "publicName": "세계 3등에게 배우는 실무 밀착 데이터 시각화",
+          "contractEndAt": "2030-12-31 00: 00: 00",
+          "totalPlayTime": 54127,
+          "contractBeginAt": "2021-10-26 00:00:00",
+          "exposedCategory": [
+            {
+              "depth1stId": 10001,
+              "depth2ndId": 10023
+            }
+          ],
+          "totalCourseContentCount": 111
+        },
+        "product": {
+          "id": 10003,
+          "type": "ALL",
+          "state": "NORMAL",
+          "name": "B2B - All Plan",
+          "extras": {
+            "isFree": false,
+            "publicName": "B2B - All Plan",
+            "courseEndedAt": "2050-12-31T14:59:59.000Z",
+            "courseStartedAt": "2023-03-02T15:00:00.000Z",
+            "originProductId": 10000,
+            "enrollmentEndedAt": "2050-12-31T14:59:59.000Z",
+            "enrollmentStartedAt": "2023-03-02T15:00:00.000Z"
+          }
+        },
+        "periodPermissions": ["APPLY", "ONGOING"],
+        "enrollment": {
+          "courseId": 10002,
+          "memberId": 10718,
+          "productId": 10003,
+          "id": 62354,
+          "state": "COMPLETED",
+          "type": "ENROLLMENT",
+          "extras": {
+            "event": "AUTO"
+          }
+        }
+      }
+    ],
+    "endedCourses": []
+  }
+}

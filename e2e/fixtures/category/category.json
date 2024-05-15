@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10000,
+    "type": "EXPOSED",
+    "state": "NORMAL",
+    "flags": 9999,
+    "code": "init-category-depth1",
+    "name": "프로그래밍",
+    "description": null,
+    "extras": {
+      "code": "INIT",
+      "site": "LXP",
+      "depth": 1,
+      "order": 1,
+      "isLast": false
+    },
+    "created_at": "2023-03-06T08:25:02.668Z",
+    "updated_at": "2023-03-06T08:25:02.668Z"
+  }
+]

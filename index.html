@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0" />
+    <script src="//t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/pretendardvariable.css"
+    />
+    <link rel="shortcut icon" href="./favicon.ico" />
+    <link rel="icon" href="./favicon.ico" />
+    <title>Fastcampus 기업 강의</title>
+  </head>
+  <style>
+    /* stylelint-disable prettier/prettier, custom-property-empty-line-before, comment-empty-line-before */
+    :root {
+      /* 디자인시스템 내 있는 기본 컬러, 컴포넌트 색상을 정의 */
+
+      /* 기본 컬러 */
+      --theme-brightness: 1;
+      --color-black: #000;
+      --color-blue-50: rgba(38, 107, 255, 0.05);
+      --color-blue-600: #266bff;
+      --color-gray: gray;
+      --legacy-color-gray-50: #f5f5f5;
+      --legacy-color-gray-100: #dcdcdc;
+      --legacy-color-gray-200: #c3c3c3;
+      --legacy-color-gray-300: #aaaaaa;
+      --legacy-color-gray-400: #919191;
+      --legacy-color-gray-500: #787878;
+      --legacy-color-gray-600: #5f5f5f;
+      --legacy-color-gray-800: #2d2d2d;
+      --legacy-color-gray-700: #464646;
+      --legacy-color-gray-900: #141414;
+      --color-white: #fff;
+      --color-primary-1: #314bfe;
+      --color-primary-2: #4966f5;
+      --color-primary-3: #111842;
+      --color-red-50: rgba(240, 68, 56, 0.05);
+      --color-red-100: #f5443b;
+      --color-red-600: #f04438;
+      --color-red-700: #c0362d;
+      --color-green-50: rgba(18, 183, 106, 0.05);
+      --color-green-600: #12b76a;
+      --color-secondary-1: #f5f9ff;
+      --color-secondary-2: #f33;
+      --color-secondary-3: #b6edff;
+      --color-secondary-4: #ffd78a;
+      --color-secondary-5: #476dec;
+      --color-error: #b00020;
+      --color-text-black: #141414;
+      --color-text-gray: #757575;
+      --color-text-light-gray: #acacac;
+      --color-text-blue: #266bff;
+      --color-border-black-5: rgba(20, 20, 20, 0.05);
+      --color-border-grey: #c8c8c8;
+      --color-border-light-grey: #d9d9d9;
+      --color-border-blue: #dfe9ff;
+      --color-surface-white: #ffffff;
+      --color-surface-black-5: rgba(20, 20, 20, 0.05);
+      --color-surface-black-20: rgba(20, 20, 20, 0.2);
+      --color-surface-blue: #266bff;
+      --color-object-black: #141414;
+
+      /* new design system color */
+      --color-gray-50: #f5f6f7;
+      --color-gray-100: #e5e8eb;
+      --color-gray-200: #d3d7da;
+      --color-gray-300: #c1c6cc;
+      --color-gray-400: #969ca3;
+      --color-gray-500: #7a8088;
+      --color-gray-600: #5f656d;
+      --color-gray-700: #454a52;
+      --color-gray-800: #2d3136;
+      --color-gray-900: #16181b;
+      --color-gray-600-transparency-10: rgba(95, 101, 109, 0.1);
+      --color-gray-800-transparency-10: rgba(45, 49, 54, 0.1);
+      --color-purple-600: #7d3be4;
+      --color-primary-600: #5389ff;
+      --color-primary-700: #266bff;
+      --color-primary-800: #1d50bf;
+      --color-primary-700-transparency-5: rgba(38, 107, 255, 0.05);
+      --color-primary-700-transparency-10: rgba(38, 107, 255, 0.1);
+      --color-primary-700-transparency-30: rgba(38, 107, 255, 0.3);
+      --color-semantic-red: #ef5650;
+      --color-semantic-red-transparency-10: rgba(239, 86, 80, 0.1);
+      --color-semantic-green: #12b76a;
+      --color-semantic-purple: var(--color-purple-600);
+      --color-semantic-pink: #f74397;
+      --color-semantic-green-new: #1cb8b8;
+      --color-semantic-divider-default: #e5e8eb;
+
+      --color-semantic-informative-primary: #2d3136;
+      --color-semantic-informative-primary-low: #5f656d;
+      --color-semantic-informative-secondary: #969ca3;
+      --color-semantic-informative-teritary: #c1c6cc;
+      --color-semantic-informative-contrast: #f5f6f7;
+      --color-semantic-informative-label: #fff;
+      --color-semantic-informative-accent: #266bff;
+      --color-semantic-informative-accent-low: rgba(38, 107, 255, 0.07);
+      --color-semantic-informative-accent-hover: #1e56cc;
+      --color-semantic-informative-success: #12b76a;
+      --color-semantic-informative-success-low: rgba(18, 183, 106, 0.07);
+      --color-semantic-informative-alert: #f04438;
+      --color-semantic-informative-alert-hover: #c0362d;
+      --color-semantic-informative-alert-low: rgba(240, 68, 56, 0.07);
+      --color-semantic-informative-technical: var(--color-semantic-purple);
+      --color-semantic-informative-technical-low: rgba(125, 59, 228, 0.07);
+      --color-semantic-informative-dxEssential: var(--color-semantic-green-new);
+      --color-semantic-informative-dxEssential-low: rgba(28, 184, 184, 0.07);
+      --color-semantic-informative-workplace: var(--color-semantic-pink);
+      --color-semantic-informative-workplace-low: rgba(247, 67, 151, 0.07);
+      --color-semantic-paper-surface-default: #f5f6f7;
+      --color-semantic-status-gray-hover: #e5e8eb;
+
+      /* typography */
+      --typography-font-size-10: 1rem;
+      --typography-font-size-11: 1.1rem;
+      --typography-font-size-12: 1.2rem;
+      --typography-font-size-13: 1.3rem;
+      --typography-font-size-14: 1.4rem;
+      --typography-font-size-15: 1.5rem;
+      --typography-font-size-16: 1.6rem;
+      --typography-font-size-18: 1.8rem;
+      --typography-font-size-20: 2rem;
+      --typography-font-size-24: 2.4rem;
+      --typography-font-size-28: 2.8rem;
+      --typography-font-size-32: 3.2rem;
+      --typography-font-size-36: 3.6rem;
+      --typography-font-size-40: 4rem;
+      --typography-font-size-44: 4.4rem;
+      --typography-font-size-48: 4.8rem;
+      --typography-line-height-12: 1.2rem;
+      --typography-line-height-16: 1.6rem;
+      --typography-line-height-20: 2rem;
+      --typography-line-height-21: 2.1rem;
+      --typography-line-height-22: 2.2rem;
+      --typography-line-height-24: 2.4rem;
+      --typography-line-height-28: 2.8rem;
+      --typography-line-height-32: 3.2rem;
+      --typography-line-height-36: 3.6rem;
+      --typography-line-height-40: 4rem;
+      --typography-line-height-42: 4.2rem;
+      --typography-line-height-44: 4.4rem;
+      --typography-line-height-48: 4.8rem;
+      --typography-line-height-52: 5.2rem;
+      --typography-line-height-60: 6rem;
+
+      --typography-font-weight-bold: 700;
+      --typography-font-weight-semibold: 600;
+      --typography-font-weight-regular: 400;
+
+      --typography-line-height-small: 140%;
+      --typography-line-height-medium: 150%;
+      --typography-line-height-large: 160%;
+
+      --typography-letter-spacing-narrow: -0.02rem;
+      --typography-letter-spacing-none: -0.01rem;
+      --typography-letter-spacing-wide: -0.02rem;
+
+      /* z-index */
+
+      --z-header: 1;
+
+      --z-carousel-slide-btn: 1;
+      --z-dropdown: 10;
+      --z-bottom-sheet-dimmed: 20;
+      --z-bottom-sheet: 25;
+      --z-modal: 10000002;
+      --z-toast: 40;
+      --z-index-portal: 10000002;
+      --z-preview-image: 100;
+
+      --z-composer-view: 0;
+
+      --z-classroom-note-dimmed: 10;
+      --z-classroom-note-editor: 15;
+      --z-classroom-option-btn: 1;
+
+      --z-curriculum-linear-gradient: 1;
+      --z-course-detail-multiple-enrollment-popup: 5;
+
+      --z-gnb: 10;
+
+      --z-mypage-summary-card: 5;
+
+      --z-floating-chat: 10000000 !important;
+
+      /*
+        design system component style
+        --color-component-state-target-state
+      */
+
+      --color-error-message-color: var(--color-red-100);
+
+      --color-font-default: var(--color-black);
+      --color-border-default: var(--color-gray);
+      --color-header: var(--color-black);
+      --color-hr: #d9d9d9;
+      --color-modal-background: rgba(20 20 20 / 80%);
+
+      --color-lightred-background: rgba(240 68 56 / 5%);
+      --color-lightgreen-background: rgba(18 183 106 / 5%);
+      --color-lightgreen-new-background: rgba(28 184 184 / 7%);
+      --color-lightblue-background: rgba(38 107 255 / 15%);
+      --color-lightpurple-background: rgba(125 59 228 / 7%);
+      --color-lightpink-background: rgba(247 67 151 / 7%);
+
+      --color-dropdown-background: var(--color-white);
+      --color-dropdown-background-hover: var(--legacy-color-gray-50);
+
+      --color-chip-background: var(--color-blue-12);
+      --color-chip-font: var(--color-primary-1);
+      --color-chip-gray-background: var(--legacy-color-gray-50);
+      --color-chip-gray-font: var(--legacy-color-gray-400);
+
+      --color-select-font: var(--legacy-color-gray-800);
+      --color-select-error-border: var(--color-red-100);
+      --color-select-focus-background: var(--color-white);
+      --color-select-background: var(--legacy-color-gray-50);
+      --color-select-selected-border: var(--color-blue-600);
+      --color-select-selected-background: var(--legacy-color-gray-50);
+      --color-select-selected-color: var(--color-blue-100);
+      --color-select-label-background: rgba(95 101 109 / 8%);
+      --color-select-member-background: #F4F7FF;
+      --color-select-member-border: #DFE9FF;
+      --color-select-member-color: #266BFF;
+      --color-select-member-selected-background: #E9F0FF;
+
+      --layout-gnb-height: 9.2rem;
+      --layout-gnb-margin-bottom: 2rem;
+      --layout-gnb-mobile-height: 5.6rem;
+      --layout-footer-desktop-height: 19rem;
+      --layout-footer-mobile-height: 25.8rem;
+      --layout-enrollment-mobile-header-height: 13.2rem;
+      --layout-top-notice-item-height: 3.6rem;
+      --layout-top-notice-mobile-without-item-height: 13.6rem;
+
+      --medium-modal-gutter-top: 6rem;
+      --modal-padding-top: 2.4rem;
+      --modal-header-height: 2.4rem;
+      --modal-header-margin-bottom: 1.2rem;
+      --modal-footer-height: 4rem;
+      --modal-footer-margin-top: 2.4rem;
+
+      --classroom-content-controller-large-viewport-height: 4rem;
+      --classroom-content-info-large-viewport-height: 5.7rem;
+      --classroom-player-small-large-viewport-height: calc(100vw * (9 / 16));
+      --classroom-meet-small-large-viewport-height: 65rem;
+      --classroom-exam-img-preview-background: rgba(14 14 14 / 80%);
+      --classroom-exam-question-multiple-answer-item-active: rgba(38 107 255 / 5%);
+
+      --home-content-right-padding: 2rem;
+      --home-carousel-slide-btn-width-height: 4rem;
+      --home-carousel-slide-xlarge-width: calc(
+        96rem - (var(--home-carousel-slide-btn-width-height) * 2) - var(--home-content-right-padding)
+      );
+      --home-carousel-slide-xlarge-height: calc(var(--home-carousel-slide-xlarge-width) * (3 / 7));
+
+      --mypage-sub-page-width: 83.4rem;
+      --mypage-summary-gap: 1.2rem;
+    }
+
+    #portal-container {
+      position: relative;
+      z-index: var(--z-index-portal);
+    }
+    /* stylelint-enable prettier/prettier, custom-property-empty-line-before, comment-empty-line-before */
+  </style>
+  <body>
+    <noscript>
+      <strong
+        >We're sorry but btob doesn't work properly without JavaScript enabled. Please enable it to continue.</strong
+      >
+    </noscript>
+    <main id="app"></main>
+    <section id="portal-container"></section>
+    <script type="module" src="./src/index.tsx"></script>
+  </body>
+</html>

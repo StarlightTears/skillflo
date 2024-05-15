@@ -1,0 +1,107 @@
+[
+  {
+    "id": 10000,
+    "type": "MIGRATION",
+    "state": "NORMAL",
+    "flags": 9999,
+    "code": "supplement-202073",
+    "name": "올인원 패키지 _ C#과 유니티로 배우는 게임개발 - 강의자료 가이드라인.pdf",
+    "description": "강의자료 가이드라인",
+    "extras": {
+      "url": "",
+      "files": [
+        {
+          "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202008/122224-139/올인원-패키지---c-과-유니티로-배우는-게임개발---강의자료-가이드라인.pdf",
+          "name": "올인원 패키지 _ C#과 유니티로 배우는 게임개발 - 강의자료 가이드라인.pdf"
+        }
+      ],
+      "keywords": []
+    },
+    "created_at": "2023-03-06T08:25:06.579Z",
+    "updated_at": "2023-03-06T08:25:06.579Z"
+  },
+  {
+    "id": 10001,
+    "type": "MIGRATION",
+    "state": "NORMAL",
+    "flags": 9999,
+    "code": "supplement-202073",
+    "name": "유니티 개발을 위한 필수 게임 수학&물리.zip",
+    "description": "03. 유니티 개발을 위한 필수 게임 수학&물리",
+    "extras": {
+      "url": "",
+      "files": [
+        {
+          "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202008/130656-139/유니티-개발을-위한-필수-게임-수학-물리.zip",
+          "name": "유니티 개발을 위한 필수 게임 수학&물리.zip"
+        }
+      ],
+      "keywords": []
+    },
+    "created_at": "2023-03-06T08:25:06.579Z",
+    "updated_at": "2023-03-06T08:25:06.579Z"
+  },
+  {
+    "id": 10002,
+    "type": "MIGRATION",
+    "state": "NORMAL",
+    "flags": 9999,
+    "code": "supplement-202073",
+    "name": "문제 풀이로 실전 응용력을 다지는 필수 자료구조.zip",
+    "description": "05. 문제 풀이로 실전 응용력을 다지는 필수 자료구조",
+    "extras": {
+      "url": "",
+      "files": [
+        {
+          "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202008/130720-139/문제-풀이로-실전-응용력을-다지는-필수-자료구조.zip",
+          "name": "문제 풀이로 실전 응용력을 다지는 필수 자료구조.zip"
+        }
+      ],
+      "keywords": []
+    },
+    "created_at": "2023-03-06T08:25:06.579Z",
+    "updated_at": "2023-03-06T08:25:06.579Z"
+  },
+  {
+    "id": 10003,
+    "type": "MIGRATION",
+    "state": "NORMAL",
+    "flags": 9999,
+    "code": "supplement-202073",
+    "name": "Unity 게임 엔진을 활용한 게임 개발 실무.zip",
+    "description": "04. Unity 게임 엔진을 활용한 게임 개발 실무\n",
+    "extras": {
+      "url": "",
+      "files": [
+        {
+          "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202008/130820-139/unity-게임-엔진을-활용한-게임-개발-실무.zip",
+          "name": "Unity 게임 엔진을 활용한 게임 개발 실무.zip"
+        }
+      ],
+      "keywords": []
+    },
+    "created_at": "2023-03-06T08:25:06.579Z",
+    "updated_at": "2023-03-06T08:25:06.579Z"
+  },
+  {
+    "id": 10004,
+    "type": "MIGRATION",
+    "state": "NORMAL",
+    "flags": 9999,
+    "code": "supplement-202073",
+    "name": "02. 코딩테스트로 배워보는 C#",
+    "description": "02. 코딩테스트로 배워보는 C#",
+    "extras": {
+      "url": "",
+      "files": [
+        {
+          "url": "https://github.com/gitcmhan99/ExamCode",
+          "name": "02. 코딩테스트로 배워보는 C#"
+        }
+      ],
+      "keywords": []
+    },
+    "created_at": "2023-03-06T08:25:06.579Z",
+    "updated_at": "2023-03-06T08:25:06.579Z"
+  }
+]

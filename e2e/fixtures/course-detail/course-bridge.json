@@ -1,0 +1,1705 @@
+{
+  "data": {
+    "courseDetail": {
+      "id": 10000,
+      "type": "ONLINE",
+      "state": "NORMAL",
+      "flags": 9000,
+      "code": "migration-course-202073",
+      "name": "올인원 패키지 : C#과 유니티로 배우는 게임개발",
+      "description": null,
+      "extras": {
+        "site": "FASTCAMPUS",
+        "teachers": [],
+        "thumbnail": {
+          "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202111/110220-472/게임형---c-과-유니티로-배우는-게임-개발.jpg",
+          "name": "게임형 _ C#과 유니티로 배우는 게임 개발.jpg"
+        },
+        "fcCourseId": 202073,
+        "publicName": "C#과 유니티로 배우는 게임 개발 올인원 패키지 Online test 킹갓언리얼",
+        "lectureInfo": "1. 수업 목표 :\n- 게임 개발에 대한 기초 지식을 습득하고, 배운 지식을 바탕으로 문제를 해결할 수 있는 사고능력을 기릅니다.\n- 게임 개발자 취업에 필요한 모든 과정을 하나의 강의로 정복합니다.\n- 프로그래밍 기초는 탄탄히, 게임 엔진 실무를 기반으로 하는 포트폴리오까지 준비할 수 있습니다.\n\n2. 강의요약 :\n- 게임 회사 코딩테스트 대비부터 포트폴리오까지 한 번에 수강할 수 있습니다.\n- 현직 게임 개발자가 게임 개발자 취업의 A to Z를 직접 강의합니다.\n\n3. 특이사항 : 없음",
+        "teacherInfo": "한창민 강사\n[주요 경력사항]\n- 現 M사 – 프로그래밍 팀장 겸 PM\n- 前 위메이드 – MMORPG 게임 선임 연구원\n- 前 바른손 – 모바일 게임 개발 (보석팡, 아쿠아빌리지 for Kakao)\n- 前 넷이즈(중국) – SNS 게임 프로그래밍 팀장\n\n김민백 강사\n[주요 경력사항]\n- 現 ’긱블’메이커 / PD\n- 現 ‘민바크의 게임 제작’ 유튜브 채널 운영 중\n\n배병도 강사\n[주요 경력사항]\n- 前 스마일게이트스토브 - 차장(C# / C++ 라이브러리 제작)\n- 前 4:33 (Lost Kingdom 해외 퍼블리싱 지원, 활2 최적화 작업 지원)\n- 前 iBH Soft - 과장(Running M 게임 개발)\n- 前 스노우 파이프 - 부장(사쿠라대전 클라이언트 개발 총괄)\n- 前 ANB Soft - 과장(애니머스 온라인 클라이언트 개발 총괄, 드래곤 키우기 클라이언트 개발 총괄)\n- 前 CJIG(넷마블계열사) - 대리\n\n손정현 강사\n[주요 경력사항]\n- 現 인바디 PC어플리케이션 개발(C# 개발)",
+        "isLastCourse": true,
+        "realContents": [],
+        "scheduleInfo": "전체 오픈",
+        "contractEndAt": "2030-12-31 00: 00: 00",
+        "totalPlayTime": 197441,
+        "contractBeginAt": "2020-01-21 00:00:00",
+        "descriptionInfo": "C# 프로그래밍부터 게임 물리와 수학까지 모두 정복!",
+        "exposedCategory": [
+          {
+            "depth1stId": 10000,
+            "depth2ndId": 10012
+          }
+        ],
+        "headTeacherName": "",
+        "isUseCodeRunner": true,
+        "managedCategory": {
+          "depth1stId": 10075,
+          "depth2ndId": 10087
+        },
+        "priorCourseName": "",
+        "connectedProductIds": [
+          10001, 10002, 10003, 10004, 10012, 10014, 10015, 10017, 10029, 10035, 10038, 10039, 10040, 10041, 10044,
+          10045, 10048, 10049, 10084, 10099, 10100, 10111, 10112, 10119, 10120, 10127, 10129, 10132, 10134, 10135,
+          10136, 10144, 10166, 10169, 10172, 10176, 10178, 10191, 10193, 10194, 10195, 10196, 10197, 10198, 10199,
+          10200, 10201, 10202, 10204, 10212, 10213, 10214, 10216, 10217, 10221, 10224, 10225, 10226, 10227, 10228,
+          10229, 10230, 10231, 10232, 10233, 10234, 10235, 10236, 10237, 10257, 10319, 10320, 10322, 10330, 10331,
+          10332, 10334, 10723, 10731, 10734, 10736, 10741, 10742, 10743, 10745, 10746, 10747, 10748
+        ],
+        "totalCourseContentCount": 177,
+        "contents": [
+          {
+            "id": "202073:CHAPTER:SEQUENCE:0",
+            "type": "CHAPTER",
+            "title": "게임 개발자가 되려면 무엇을 어떻게 공부 해야할까? ",
+            "CHAPTER": [
+              {
+                "id": "202073:CHAPTER:SEQUENCE:0",
+                "type": "CHAPTER",
+                "title": "게임 개발자가 되려면 무엇을 어떻게 공부 해야할까? ",
+                "CONTENT": [
+                  {
+                    "type": "CONTENT",
+                    "playTime": 775,
+                    "sequence": 0,
+                    "courseContentId": 10000,
+                    "courseContentName": "Ch.1 게임 개발자가 되려면 무엇을  공부 해야할까 (What?)"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 912,
+                    "sequence": 1,
+                    "courseContentId": 10001,
+                    "courseContentName": "Ch.2 게임 개발자가 되려면 어떻게  공부 해야할까 (How?)"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 902,
+                    "sequence": 2,
+                    "courseContentId": 10002,
+                    "courseContentName": "Ch.3 Unity 게임 회사 프로그래머가 하는일이 무엇일까"
+                  }
+                ]
+              }
+            ],
+            "parentId": 0,
+            "sequence": 0,
+            "clipGroupId": 1392,
+            "migrateClipGroupId": 1392
+          },
+          {
+            "id": "202073:CHAPTER:SEQUENCE:1",
+            "type": "CHAPTER",
+            "title": "코딩테스트로 배워보는 C#",
+            "CHAPTER": [
+              {
+                "id": "202073:CHAPTER:SEQUENCE:0",
+                "type": "CHAPTER",
+                "title": "코딩테스트로 배워보는 C#",
+                "CONTENT": [
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1442,
+                    "sequence": 3,
+                    "courseContentId": 10003,
+                    "courseContentName": "Ch 01. C# 언어 오리엔테이션 - 01. 닷넷프레임워크와 C# 언어"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1255,
+                    "sequence": 4,
+                    "courseContentId": 10004,
+                    "courseContentName": "Ch 01. C# 언어 오리엔테이션 - 02. 실습 환경 구축하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 995,
+                    "sequence": 5,
+                    "courseContentId": 10005,
+                    "courseContentName": "Ch 02. 처음으로 코딩하기 - 01. 코드 리뷰해보기 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1200,
+                    "sequence": 6,
+                    "courseContentId": 10006,
+                    "courseContentName": "Ch 02. 처음으로 코딩하기 - 02. 코드 리뷰해보기 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1043,
+                    "sequence": 7,
+                    "courseContentId": 10007,
+                    "courseContentName": "Ch 03. 데이터란 무엇일까 - 01. 기본 데이터1 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1014,
+                    "sequence": 8,
+                    "courseContentId": 10008,
+                    "courseContentName": "Ch 03. 데이터란 무엇일까 - 02. 기본 데이터1 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 969,
+                    "sequence": 9,
+                    "courseContentId": 10009,
+                    "courseContentName": "Ch 03. 데이터란 무엇일까 - 03. 기본 데이터1 - 3"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1238,
+                    "sequence": 10,
+                    "courseContentId": 10010,
+                    "courseContentName": "Ch 03. 데이터란 무엇일까 - 04. 기본 데이터2 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 894,
+                    "sequence": 11,
+                    "courseContentId": 10011,
+                    "courseContentName": "Ch 03. 데이터란 무엇일까 - 05. 기본 데이터2 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1208,
+                    "sequence": 12,
+                    "courseContentId": 10012,
+                    "courseContentName": "Ch 03. 데이터란 무엇일까 - 06. 기본 데이터3 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1130,
+                    "sequence": 13,
+                    "courseContentId": 10013,
+                    "courseContentName": "Ch 03. 데이터란 무엇일까 - 07. 기본 데이터3 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 914,
+                    "sequence": 14,
+                    "courseContentId": 10014,
+                    "courseContentName": "Ch 03. 데이터란 무엇일까 - 08. 기본 데이터3 - 3"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 949,
+                    "sequence": 15,
+                    "courseContentId": 10015,
+                    "courseContentName": "Ch 04. 기초문법 - 01. 프로그램 제어하기1 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 847,
+                    "sequence": 16,
+                    "courseContentId": 10016,
+                    "courseContentName": "Ch 04. 기초문법 - 02. 프로그램 제어하기1 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1060,
+                    "sequence": 17,
+                    "courseContentId": 10017,
+                    "courseContentName": "Ch 04. 기초문법 - 03. 프로그램 제어하기1 - 3"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1129,
+                    "sequence": 18,
+                    "courseContentId": 10018,
+                    "courseContentName": "Ch 04. 기초문법 - 04. 프로그램 제어하기1 - 4"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1041,
+                    "sequence": 19,
+                    "courseContentId": 10019,
+                    "courseContentName": "Ch 04. 기초문법 - 05. 프로그램 제어하기2 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1272,
+                    "sequence": 20,
+                    "courseContentId": 10020,
+                    "courseContentName": "Ch 04. 기초문법 - 06. 프로그램 제어하기2 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1460,
+                    "sequence": 21,
+                    "courseContentId": 10021,
+                    "courseContentName": "Ch 04. 기초문법 - 07. 프로그램 제어하기2 - 3"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 891,
+                    "sequence": 22,
+                    "courseContentId": 10022,
+                    "courseContentName": "Ch 04. 기초문법 - 08. CheckPoint01 - 게임 만들기(숫자 달리기) - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1153,
+                    "sequence": 23,
+                    "courseContentId": 10023,
+                    "courseContentName": "Ch 04. 기초문법 - 09. CheckPoint01 - 게임 만들기(숫자 달리기) - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 867,
+                    "sequence": 24,
+                    "courseContentId": 10024,
+                    "courseContentName": "Ch 05. 함수 마스터하기 - 01. 함수 처음 배워보기 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1248,
+                    "sequence": 25,
+                    "courseContentId": 10025,
+                    "courseContentName": "Ch 05. 함수 마스터하기 - 02. 함수 처음 배워보기 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 849,
+                    "sequence": 26,
+                    "courseContentId": 10026,
+                    "courseContentName": "Ch 05. 함수 마스터하기 - 03. 함수 처음 배워보기 - 3"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 812,
+                    "sequence": 27,
+                    "courseContentId": 10027,
+                    "courseContentName": "Ch 05. 함수 마스터하기 - 04. 함수 제대로 활용해보기 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 941,
+                    "sequence": 28,
+                    "courseContentId": 10028,
+                    "courseContentName": "Ch 05. 함수 마스터하기 - 05. 함수 제대로 활용해보기 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1011,
+                    "sequence": 29,
+                    "courseContentId": 10029,
+                    "courseContentName": "Ch 05. 함수 마스터하기 - 06. CheckPoint02 - 숫자달리기에 함수 적용하기-"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1365,
+                    "sequence": 30,
+                    "courseContentId": 10030,
+                    "courseContentName": "Ch 06. 배열 제대로 배우기 - 01. 처음 배워보는 배열 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1120,
+                    "sequence": 31,
+                    "courseContentId": 10031,
+                    "courseContentName": "Ch 06. 배열 제대로 배우기 - 02. 처음 배워보는 배열 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1080,
+                    "sequence": 32,
+                    "courseContentId": 10032,
+                    "courseContentName": "Ch 06. 배열 제대로 배우기 - 03. 제대로 활용해보는 배열 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 993,
+                    "sequence": 33,
+                    "courseContentId": 10033,
+                    "courseContentName": "Ch 06. 배열 제대로 배우기 - 04. 제대로 활용해보는 배열 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1403,
+                    "sequence": 34,
+                    "courseContentId": 10034,
+                    "courseContentName": "Ch 06. 배열 제대로 배우기 - 05. CheckPoint03 - 배열 활용하기 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1528,
+                    "sequence": 35,
+                    "courseContentId": 10035,
+                    "courseContentName": "Ch 06. 배열 제대로 배우기 - 06. CheckPoint03 - 배열 활용하기 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1554,
+                    "sequence": 36,
+                    "courseContentId": 10036,
+                    "courseContentName": "Ch 06. 배열 제대로 배우기 - 07. CheckPoint03 - 배열 활용하기 - 3"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 820,
+                    "sequence": 37,
+                    "courseContentId": 10037,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 01. 쉽게 이해하는 클래스 문법 - 배열 Check"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 809,
+                    "sequence": 38,
+                    "courseContentId": 10038,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 02. 쉽게 이해하는 클래스 문법 - 클래스 개념"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 677,
+                    "sequence": 39,
+                    "courseContentId": 10039,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 03. 쉽게 이해하는 클래스 문법 - new 키워드, 생성자, 소멸자"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1069,
+                    "sequence": 40,
+                    "courseContentId": 10040,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 04. 쉽게 이해하는 클래스 문법 - this, static 키워드"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1326,
+                    "sequence": 41,
+                    "courseContentId": 10041,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 05. 상속과 도형 - 클래스 상속"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 745,
+                    "sequence": 42,
+                    "courseContentId": 10042,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 06. 상속과 도형 - is, as 키워드"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1171,
+                    "sequence": 43,
+                    "courseContentId": 10043,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 07. 상속과 도형 - 다형성"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 659,
+                    "sequence": 44,
+                    "courseContentId": 10044,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 08. 상속과 도형 - sealed, 클래스 HAS, parial"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 562,
+                    "sequence": 45,
+                    "courseContentId": 10045,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 09. 상속과 도형 - 확장 메소드, 클래스 vs 구조체"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1024,
+                    "sequence": 46,
+                    "courseContentId": 10046,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 10. 인터페이스와 추상 클래스 - 인터페이스"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 515,
+                    "sequence": 47,
+                    "courseContentId": 10047,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 11. 인터페이스와 추상 클래스 - 추상 클래스"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 602,
+                    "sequence": 48,
+                    "courseContentId": 10048,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 12. 인터페이스와 추상 클래스 - 프로퍼티, Check"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1872,
+                    "sequence": 49,
+                    "courseContentId": 10049,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 13. CheckPoint04 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1161,
+                    "sequence": 50,
+                    "courseContentId": 10050,
+                    "courseContentName": "Ch 07. 클래스 개념 꽉 잡기 - 14. CheckPoint04 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1629,
+                    "sequence": 51,
+                    "courseContentId": 10051,
+                    "courseContentName": "Ch 08. 컬렉션, 인덱서 - 01. 컬렉션, 인덱서 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1410,
+                    "sequence": 52,
+                    "courseContentId": 10052,
+                    "courseContentName": "Ch 08. 컬렉션, 인덱서 - 02. 컬렉션, 인덱서 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1731,
+                    "sequence": 53,
+                    "courseContentId": 10053,
+                    "courseContentName": "Ch 09. C# 초보탈출 I - 01. 일반화 프로그래밍 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1959,
+                    "sequence": 54,
+                    "courseContentId": 10054,
+                    "courseContentName": "Ch 09. C# 초보탈출 I - 02. 일반화 프로그래밍 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1424,
+                    "sequence": 55,
+                    "courseContentId": 10055,
+                    "courseContentName": "Ch 09. C# 초보탈출 I - 03. 예외 처리 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1010,
+                    "sequence": 56,
+                    "courseContentId": 10056,
+                    "courseContentName": "Ch 09. C# 초보탈출 I - 04. 예외 처리 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 2026,
+                    "sequence": 57,
+                    "courseContentId": 10057,
+                    "courseContentName": "Ch 09. C# 초보탈출 I - 05. 델리게이트와 이벤트"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1518,
+                    "sequence": 58,
+                    "courseContentId": 10058,
+                    "courseContentName": "Ch 10. C# 초보탈출 II - 01. 람다식"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 2133,
+                    "sequence": 59,
+                    "courseContentId": 10059,
+                    "courseContentName": "Ch 10. C# 초보탈출 II - 02. LINQ"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1355,
+                    "sequence": 60,
+                    "courseContentId": 10060,
+                    "courseContentName": "Ch 10. C# 초보탈출 II - 03. CheckPoint05 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1408,
+                    "sequence": 61,
+                    "courseContentId": 10061,
+                    "courseContentName": "Ch 10. C# 초보탈출 II - 04. CheckPoint05 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1388,
+                    "sequence": 62,
+                    "courseContentId": 10062,
+                    "courseContentName": "Ch 11. C# 초보탈출 III - 01. 파일 처리 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1504,
+                    "sequence": 63,
+                    "courseContentId": 10063,
+                    "courseContentName": "Ch 11. C# 초보탈출 III - 02. 파일 처리 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1721,
+                    "sequence": 64,
+                    "courseContentId": 10064,
+                    "courseContentName": "Ch 11. C# 초보탈출 III - 03. 스레드 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1822,
+                    "sequence": 65,
+                    "courseContentId": 10065,
+                    "courseContentName": "Ch 11. C# 초보탈출 III - 04. 스레드 - 2"
+                  }
+                ]
+              }
+            ],
+            "parentId": 0,
+            "sequence": 1,
+            "clipGroupId": 1400,
+            "migrateClipGroupId": 1400
+          },
+          {
+            "id": "202073:CHAPTER:SEQUENCE:2",
+            "type": "CHAPTER",
+            "title": "유니티 개발을 위한 필수 게임 수학&물리",
+            "CHAPTER": [
+              {
+                "id": "202073:CHAPTER:SEQUENCE:0",
+                "type": "CHAPTER",
+                "title": "유니티 개발을 위한 필수 게임 수학&물리",
+                "CONTENT": [
+                  {
+                    "type": "CONTENT",
+                    "playTime": 324,
+                    "sequence": 66,
+                    "courseContentId": 10066,
+                    "courseContentName": "Ch 00. OT - 01. 오리엔테이션"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1029,
+                    "sequence": 67,
+                    "courseContentId": 10067,
+                    "courseContentName": "Ch 01. 삼각함수 - 01. cos, sin에 대한 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 2078,
+                    "sequence": 68,
+                    "courseContentId": 10068,
+                    "courseContentName": "Ch 01. 삼각함수 - 02. cos, sin을 활용한 미사일 슈팅 구현하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 949,
+                    "sequence": 69,
+                    "courseContentId": 10069,
+                    "courseContentName": "Ch 02. 벡터 - 01. 벡터의 표기 및 단위벡터"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1174,
+                    "sequence": 70,
+                    "courseContentId": 10070,
+                    "courseContentName": "Ch 02. 벡터 - 02. 벡터를 이용한 플레이어 이동 구현하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1249,
+                    "sequence": 71,
+                    "courseContentId": 10071,
+                    "courseContentName": "Ch 03. 벡터의 내적 - 01. 내적에 대한 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 971,
+                    "sequence": 72,
+                    "courseContentId": 10072,
+                    "courseContentName": "Ch 03. 벡터의 내적 - 02. 내적을 활용한 게임요소 구현하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1103,
+                    "sequence": 73,
+                    "courseContentId": 10073,
+                    "courseContentName": "Ch 04. 벡터의 외적 - 01. 외적에 대한 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1069,
+                    "sequence": 74,
+                    "courseContentId": 10074,
+                    "courseContentName": "Ch 04. 벡터의 외적 - 02. 외적을 활용한 게임요소 구현하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1455,
+                    "sequence": 75,
+                    "courseContentId": 10075,
+                    "courseContentName": "Ch 05. 행렬 - 01. 행렬에 대한 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1243,
+                    "sequence": 76,
+                    "courseContentId": 10076,
+                    "courseContentName": "Ch 05. 행렬 - 02. 행렬과 Transform의 관계 알아보기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 782,
+                    "sequence": 77,
+                    "courseContentId": 10077,
+                    "courseContentName": "Ch 06. 힘과 가속도 - 01. F=ma 힘과 가속도의 관계 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 890,
+                    "sequence": 78,
+                    "courseContentId": 10078,
+                    "courseContentName": "Ch 06. 힘과 가속도 - 02. AddForce를 활용한 게임 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1406,
+                    "sequence": 79,
+                    "courseContentId": 10079,
+                    "courseContentName": "Ch 07. 등가속도 운동 - 01. 등속도 운동, 등가속도 운동에 대한 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1038,
+                    "sequence": 80,
+                    "courseContentId": 10080,
+                    "courseContentName": "Ch 07. 등가속도 운동 - 02. 등속도 운동, 등가속도 운동을 활용한 게임 구현하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1023,
+                    "sequence": 81,
+                    "courseContentId": 10081,
+                    "courseContentName": "Ch 08. 마찰력 및 저항력 - 01. 마찰력 및 저항력에 대한 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 968,
+                    "sequence": 82,
+                    "courseContentId": 10082,
+                    "courseContentName": "Ch 08. 마찰력 및 저향력 - 02. 마찰력&저항력을 활용한 게임요소 구현"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 802,
+                    "sequence": 83,
+                    "courseContentId": 10083,
+                    "courseContentName": "Ch 09. 토크 및 회전운동 - 01. 토크, 각운동에 대한 이해"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 272,
+                    "sequence": 84,
+                    "courseContentId": 10084,
+                    "courseContentName": "Ch 09. 토크 및 회전운동 - 02. 회전운동을 활용한 게임 구현하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 713,
+                    "sequence": 85,
+                    "courseContentId": 10085,
+                    "courseContentName": "Ch 10. 탄성 충돌 - 01. 탄성 충돌에 관한 게임요소 구현"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 279,
+                    "sequence": 86,
+                    "courseContentId": 10086,
+                    "courseContentName": "Ch 10. 탄성 충돌 - 02. 탄성 충돌에 관한 게임요소 구현"
+                  }
+                ]
+              }
+            ],
+            "parentId": 0,
+            "sequence": 2,
+            "clipGroupId": 1748,
+            "migrateClipGroupId": 1748
+          },
+          {
+            "id": "202073:CHAPTER:SEQUENCE:3",
+            "type": "CHAPTER",
+            "title": "Unity 게임 엔진을 활용한 게임 개발 실무",
+            "CHAPTER": [
+              {
+                "id": "202073:CHAPTER:SEQUENCE:0",
+                "type": "CHAPTER",
+                "title": "Unity 게임 엔진을 활용한 게임 개발 실무",
+                "CONTENT": [
+                  {
+                    "type": "CONTENT",
+                    "playTime": 796,
+                    "sequence": 87,
+                    "courseContentId": 10087,
+                    "courseContentName": "Ch 01. 설치하면서 배우는 유니티와 에디터 - 01. 유니티 설치하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1700,
+                    "sequence": 88,
+                    "courseContentId": 10088,
+                    "courseContentName": "Ch 01. 설치하면서 배우는 유니티와 에디터 - 02. 에디터의 기초적인 사용법"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1101,
+                    "sequence": 89,
+                    "courseContentId": 10089,
+                    "courseContentName": "Ch 01. 설치하면서 배우는 유니티와 에디터 - 03. Scene의 개념과 기본적으로 배치된 오브젝트_3"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 434,
+                    "sequence": 90,
+                    "courseContentId": 10090,
+                    "courseContentName": "Ch 02. 유니티 C# 스크립트와 기본적인 3D 객체들 - 01. 스크립트 생성과 기본으로 추가되어 있는 구조 살펴보기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 696,
+                    "sequence": 91,
+                    "courseContentId": 10091,
+                    "courseContentName": "Ch 02. 유니티 C# 스크립트와 기본적인 3D 객체들 - 02. MonoBehaviour"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 438,
+                    "sequence": 92,
+                    "courseContentId": 10092,
+                    "courseContentName": "Ch 02. 유니티 C# 스크립트와 기본적인 3D 객체들 - 03. 로그 추가하고 콘솔뷰에서 확인해보기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 513,
+                    "sequence": 93,
+                    "courseContentId": 10093,
+                    "courseContentName": "Ch 02. 유니티 C# 스크립트와 기본적인 3D 객체들 - 04. 변수를 추가하고 사용하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 488,
+                    "sequence": 94,
+                    "courseContentId": 10094,
+                    "courseContentName": "Ch 02. 유니티 C# 스크립트와 기본적인 3D 객체들 - 05. 3D 환경 기초 객체"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 265,
+                    "sequence": 95,
+                    "courseContentId": 10095,
+                    "courseContentName": "Ch 02. 유니티 C# 스크립트와 기본적인 3D 객체들 - 06. 유니티 환경에서 특수한 이름의 폴더에 대해서 알아보기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 2087,
+                    "sequence": 96,
+                    "courseContentId": 10096,
+                    "courseContentName": "Ch 03. 배경과 플레이어 만들기 - 01. 게임의 배경 만들기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 644,
+                    "sequence": 97,
+                    "courseContentId": 10097,
+                    "courseContentName": "Ch 03. 배경과 플레이어 만들기 - 02. 플레이어 만들기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 725,
+                    "sequence": 98,
+                    "courseContentId": 10098,
+                    "courseContentName": "Ch 03. 배경과 플레이어 만들기 - 03. 입력 감지 클래스와 시스템 클래스 만들기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1672,
+                    "sequence": 99,
+                    "courseContentId": 10099,
+                    "courseContentName": "Ch 03. 배경과 플레이어 만들기 - 04. 플레이어를 이동시키기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1299,
+                    "sequence": 100,
+                    "courseContentId": 10100,
+                    "courseContentName": "Ch 04. 적 비행기 만들기 - 01. 적 비행기 클래스와 게임오브젝트 제작"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 2157,
+                    "sequence": 101,
+                    "courseContentId": 10101,
+                    "courseContentName": "Ch 04. 적 비행기 만들기 - 02. 적 비행기의 이동과 플레이어 충돌 감지하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 2400,
+                    "sequence": 102,
+                    "courseContentId": 10102,
+                    "courseContentName": "Ch 04. 적 비행기 만들기 - 02. 적 비행기의 이동과 플레이어 충돌 감지하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 737,
+                    "sequence": 103,
+                    "courseContentId": 10103,
+                    "courseContentName": "Ch 04. 적 비행기 만들기 - 03. Prefab의 사용법과 적 비행기를 Prefab파일로 저장하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 568,
+                    "sequence": 104,
+                    "courseContentId": 10104,
+                    "courseContentName": "Ch 04. 적 비행기 만들기 - 04. 적 비행기를 관리할 클래스 제작"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 537,
+                    "sequence": 105,
+                    "courseContentId": 10105,
+                    "courseContentName": "Ch 05. 총알 만들기 - 01. 총알 클래스 만들기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 747,
+                    "sequence": 106,
+                    "courseContentId": 10106,
+                    "courseContentName": "Ch 05. 총알 만들기 - 02. 총알 게임오브젝트 만들기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 642,
+                    "sequence": 107,
+                    "courseContentId": 10107,
+                    "courseContentName": "Ch 05. 총알 만들기 - 03. 플레이어에 총알을 지정하고 발사하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1290,
+                    "sequence": 108,
+                    "courseContentId": 10108,
+                    "courseContentName": "Ch 05. 총알 만들기 - 04. 총알이 적 비행기에 명중했을때 처리하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1213,
+                    "sequence": 109,
+                    "courseContentId": 10109,
+                    "courseContentName": "Ch 05. 총알 만들기 - 04. 총알이 적 비행기에 명중했을때 처리하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1138,
+                    "sequence": 110,
+                    "courseContentId": 10110,
+                    "courseContentName": "Ch 06. 총알 명중후 추가적인 처리 - 01. HP에 대한 감소 처리하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 590,
+                    "sequence": 111,
+                    "courseContentId": 10111,
+                    "courseContentName": "Ch 06. 총알 명중후 추가적인 처리 - 02. 적이 죽었을때의 처리과 점수에 대한 처리하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1592,
+                    "sequence": 112,
+                    "courseContentId": 10112,
+                    "courseContentName": "Ch 06. 총알 명중후 추가적인 처리 - 03. 폭발등 이펙트 처리하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1429,
+                    "sequence": 113,
+                    "courseContentId": 10113,
+                    "courseContentName": "Ch 06. 총알 명중후 추가적인 처리 - 04. 적 및 총알 생성／삭제에 대한 부하를 해결하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1351,
+                    "sequence": 114,
+                    "courseContentId": 10114,
+                    "courseContentName": "Ch 06. 총알 명중후 추가적인 처리 - 04. 적 및 총알 생성／삭제에 대한 부하를 해결하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1751,
+                    "sequence": 115,
+                    "courseContentId": 10115,
+                    "courseContentName": "Ch 07. uGUI로 주요 정보를 UI로 보여주기 - 01. uGUI 개요"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 418,
+                    "sequence": 116,
+                    "courseContentId": 10116,
+                    "courseContentName": "Ch 07. uGUI로 주요 정보를 UI로 보여주기 - 02. 패널과 이미지"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1248,
+                    "sequence": 117,
+                    "courseContentId": 10117,
+                    "courseContentName": "Ch 07. uGUI로 주요 정보를 UI로 보여주기 - 03. 프로그래스 바(게이지) 만들기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 725,
+                    "sequence": 118,
+                    "courseContentId": 10118,
+                    "courseContentName": "Ch 07. uGUI로 주요 정보를 UI로 보여주기 - 04. 패널 클래스와 매니저 클래스 제작하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 863,
+                    "sequence": 119,
+                    "courseContentId": 10119,
+                    "courseContentName": "Ch 07. uGUI로 주요 정보를 UI로 보여주기 - 05. 플레이어의 점수 정보 보여주기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 2224,
+                    "sequence": 120,
+                    "courseContentId": 10120,
+                    "courseContentName": "Ch 07. uGUI로 주요 정보를 UI로 보여주기 - 06. 총알 데미지를 화면에 표시하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 571,
+                    "sequence": 121,
+                    "courseContentId": 10121,
+                    "courseContentName": "Ch 08. 적 비행기들이 편대 비행을 하도록 만들기 - 01. 편대들을 관리할 클래스 제작하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1219,
+                    "sequence": 122,
+                    "courseContentId": 10122,
+                    "courseContentName": "Ch 08. 적 비행기들이 편대 비행을 하도록 만들기 - 02. 편대 비행 만들기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1126,
+                    "sequence": 123,
+                    "courseContentId": 10123,
+                    "courseContentName": "Ch 08. 적 비행기들이 편대 비행을 하도록 만들기 - 02. 편대 비행 만들기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1758,
+                    "sequence": 124,
+                    "courseContentId": 10124,
+                    "courseContentName": "Ch 08. 적 비행기들이 편대 비행을 하도록 만들기 - 03. 편대화에 따른 데이터 로딩하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1260,
+                    "sequence": 125,
+                    "courseContentId": 10125,
+                    "courseContentName": "Ch 08. 적 비행기들이 편대 비행을 하도록 만들기 - 03. 편대화에 따른 데이터 로딩하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1055,
+                    "sequence": 126,
+                    "courseContentId": 10126,
+                    "courseContentName": "Ch 08. 적 비행기들이 편대 비행을 하도록 만들기 - 03. 편대화에 따른 데이터 로딩하기 - 03"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 862,
+                    "sequence": 127,
+                    "courseContentId": 10127,
+                    "courseContentName": "Ch 09. 타이틀 화면과 로딩화면 만들기 - 01. 타이틀 화면 제작하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 486,
+                    "sequence": 128,
+                    "courseContentId": 10128,
+                    "courseContentName": "Ch 09. 타이틀 화면과 로딩화면 만들기 - 02. 로딩 화면 제작하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1185,
+                    "sequence": 129,
+                    "courseContentId": 10129,
+                    "courseContentName": "Ch 09. 타이틀 화면과 로딩화면 만들기 - 03. Scene 이동하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1987,
+                    "sequence": 130,
+                    "courseContentId": 10130,
+                    "courseContentName": "Ch 09. 타이틀 화면과 로딩화면 만들기 - 04. 게임 Scene의 준비 처리하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1025,
+                    "sequence": 131,
+                    "courseContentId": 10131,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 01. 멀티 플레이 준비하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 841,
+                    "sequence": 132,
+                    "courseContentId": 10132,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 02. 멀티 플레이를 위한 Player 수정"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 2037,
+                    "sequence": 133,
+                    "courseContentId": 10133,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 03. 원격 클라이언트가 접속하게 하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1306,
+                    "sequence": 134,
+                    "courseContentId": 10134,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 04. Enemy 오브젝트 동기화 하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1410,
+                    "sequence": 135,
+                    "courseContentId": 10135,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 04. Enemy 오브젝트 동기화 하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 971,
+                    "sequence": 136,
+                    "courseContentId": 10136,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 05. 총알 및 충돌 동기화 하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1043,
+                    "sequence": 137,
+                    "courseContentId": 10137,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 05. 총알 및 충돌 동기화 하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 951,
+                    "sequence": 138,
+                    "courseContentId": 10138,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 05. 총알 및 충돌 동기화 하기 - 03"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1228,
+                    "sequence": 139,
+                    "courseContentId": 10139,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 05. 총알 및 충돌 동기화 하기 - 04"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 975,
+                    "sequence": 140,
+                    "courseContentId": 10140,
+                    "courseContentName": "Ch 10. 멀티 플레이 게임으로 만들기 - 06. 추가적인 멀티플레이어 관련 처리"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1231,
+                    "sequence": 141,
+                    "courseContentId": 10141,
+                    "courseContentName": "Ch 11. 아이템 만들기 - 01. 적기 폭파시 아이템 생성하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1308,
+                    "sequence": 142,
+                    "courseContentId": 10142,
+                    "courseContentName": "Ch 11. 아이템 만들기 - 02. 아이템 이동 및 획득 감지하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1020,
+                    "sequence": 143,
+                    "courseContentId": 10143,
+                    "courseContentName": "Ch 11. 아이템 만들기 - 03. 아이템 습득 처리하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1146,
+                    "sequence": 144,
+                    "courseContentId": 10144,
+                    "courseContentName": "Ch 11. 아이템 만들기 - 03. 아이템 습득 처리하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1187,
+                    "sequence": 145,
+                    "courseContentId": 10145,
+                    "courseContentName": "Ch 12. 플레이어 두번째 무기 만들기 - 01. 대형 폭탄의 제작"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1496,
+                    "sequence": 146,
+                    "courseContentId": 10146,
+                    "courseContentName": "Ch 12. 플레이어 두번째 무기 만들기 - 02. 대형 폭탄을 발사하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1091,
+                    "sequence": 147,
+                    "courseContentId": 10147,
+                    "courseContentName": "Ch 12. 플레이어 두번째 무기 만들기 - 03. 대형 폭탄의 폭발을 처리하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1164,
+                    "sequence": 148,
+                    "courseContentId": 10148,
+                    "courseContentName": "Ch 12. 플레이어 두번째 무기 만들기 - 03. 대형 폭탄의 폭발을 처리하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1767,
+                    "sequence": 149,
+                    "courseContentId": 10149,
+                    "courseContentName": "Ch 13. 보스 만들기 - 01. 보스 등장하도록 만들기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1345,
+                    "sequence": 150,
+                    "courseContentId": 10150,
+                    "courseContentName": "Ch 13. 보스 만들기 - 02. 보스 만들기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1593,
+                    "sequence": 151,
+                    "courseContentId": 10151,
+                    "courseContentName": "Ch 13. 보스 만들기 - 02. 보스 만들기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1382,
+                    "sequence": 152,
+                    "courseContentId": 10152,
+                    "courseContentName": "Ch 13. 보스 만들기 - 04. 보스의 두번째 무기를 제작하기 - 01"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1376,
+                    "sequence": 153,
+                    "courseContentId": 10153,
+                    "courseContentName": "Ch 13. 보스 만들기 - 04. 보스의 두번째 무기를 제작하기 - 02"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 972,
+                    "sequence": 154,
+                    "courseContentId": 10154,
+                    "courseContentName": "Ch 13. 보스 만들기 - 04. 보스의 두번째 무기를 제작하기 - 03"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 696,
+                    "sequence": 155,
+                    "courseContentId": 10155,
+                    "courseContentName": "Ch 13. 보스 만들기 - 03. 보스의 공격을 수정하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 633,
+                    "sequence": 156,
+                    "courseContentId": 10156,
+                    "courseContentName": "Ch 14. 플레이 종료 조건을 처리하기 - 01. 보스가 죽었을 때 처리와 게임 플레이 다듬기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1202,
+                    "sequence": 157,
+                    "courseContentId": 10157,
+                    "courseContentName": "Ch 14. 플레이 종료 조건을 처리하기 - 02. 스테이지 종료 UI를 표시하고 Scene 이동하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 704,
+                    "sequence": 158,
+                    "courseContentId": 10158,
+                    "courseContentName": "Ch 14. 플레이 종료 조건을 처리하기 - 03. 플레이어가 죽었을 경우 처리하기"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1224,
+                    "sequence": 159,
+                    "courseContentId": 10159,
+                    "courseContentName": "Ch 14. 플레이 종료 조건을 처리하기 - 04. PC에서 빌드 방법과 결과물 폴더 내용을 알아보기"
+                  }
+                ]
+              }
+            ],
+            "parentId": 0,
+            "sequence": 3,
+            "clipGroupId": 1747,
+            "migrateClipGroupId": 1747
+          },
+          {
+            "id": "202073:CHAPTER:SEQUENCE:4",
+            "type": "CHAPTER",
+            "title": "문제 풀이로 실전 응용력을 다지는 필수 자료구조",
+            "CHAPTER": [
+              {
+                "id": "202073:CHAPTER:SEQUENCE:0",
+                "type": "CHAPTER",
+                "title": "문제 풀이로 실전 응용력을 다지는 필수 자료구조",
+                "CONTENT": [
+                  {
+                    "type": "CONTENT",
+                    "playTime": 844,
+                    "sequence": 160,
+                    "courseContentId": 10160,
+                    "courseContentName": "Ch 00. OT - 01. 자료구조 오리엔테이션"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1045,
+                    "sequence": 161,
+                    "courseContentId": 10161,
+                    "courseContentName": "Ch 01. 선형자료구조 - 01. 배열"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 953,
+                    "sequence": 162,
+                    "courseContentId": 10162,
+                    "courseContentName": "Ch 01. 선형자료구조 - 02. 리스트 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1004,
+                    "sequence": 163,
+                    "courseContentId": 10163,
+                    "courseContentName": "Ch 01. 선형자료구조 - 03. 리스트 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 770,
+                    "sequence": 164,
+                    "courseContentId": 10164,
+                    "courseContentName": "Ch 01. 선형자료구조 - 04. 연결리스트 - 1"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1533,
+                    "sequence": 165,
+                    "courseContentId": 10165,
+                    "courseContentName": "Ch 01. 선형자료구조 - 05. 연결리스트 - 2"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 909,
+                    "sequence": 166,
+                    "courseContentId": 10166,
+                    "courseContentName": "Ch 01. 선형자료구조 - 06. 스택"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1427,
+                    "sequence": 167,
+                    "courseContentId": 10167,
+                    "courseContentName": "Ch 01. 선형자료구조 - 07. 큐"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1103,
+                    "sequence": 168,
+                    "courseContentId": 10168,
+                    "courseContentName": "Ch 01. 선형자료구조 - 08. 해쉬테이블과 딕셔너리"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 854,
+                    "sequence": 169,
+                    "courseContentId": 10169,
+                    "courseContentName": "Ch 02. 알고리즘 - 01. 재귀호출"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 727,
+                    "sequence": 170,
+                    "courseContentId": 10170,
+                    "courseContentName": "Ch 02. 알고리즘 - 02. 정렬 알고리즘 - 선택정렬"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 713,
+                    "sequence": 171,
+                    "courseContentId": 10171,
+                    "courseContentName": "Ch 02. 알고리즘 - 03. 정렬 알고리즘 - 버블정렬"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 671,
+                    "sequence": 172,
+                    "courseContentId": 10172,
+                    "courseContentName": "Ch 02. 알고리즘 - 04. 정렬 알고리즘 - 퀵정렬"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 626,
+                    "sequence": 173,
+                    "courseContentId": 10173,
+                    "courseContentName": "Ch 02. 알고리즘 - 05. 정렬 알고리즘 - 삽입정렬"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 851,
+                    "sequence": 174,
+                    "courseContentId": 10174,
+                    "courseContentName": "Ch 02. 알고리즘 - 06. 정렬 알고리즘 - 힙정렬"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1424,
+                    "sequence": 175,
+                    "courseContentId": 10175,
+                    "courseContentName": "Ch 03. 비선형자료구조 - 01. 트리"
+                  },
+                  {
+                    "type": "CONTENT",
+                    "playTime": 1345,
+                    "sequence": 176,
+                    "courseContentId": 10176,
+                    "courseContentName": "Ch 03. 비선형자료구조 - 02. 그래프"
+                  }
+                ]
+              }
+            ],
+            "parentId": 0,
+            "sequence": 4,
+            "clipGroupId": 1749,
+            "migrateClipGroupId": 1749
+          }
+        ]
+      },
+      "created_at": "2023-03-03T04:41:26.009Z",
+      "updated_at": "2023-08-25T07:01:00.053Z",
+      "publicName": "C#과 유니티로 배우는 게임 개발 올인원 패키지 Online test 킹갓언리얼"
+    },
+    "notices": [
+      {
+        "id": 13,
+        "type": "NOTICE",
+        "name": "공지공지",
+        "state": "NORMAL",
+        "createdAt": "2023-09-02T03:56:18.000Z",
+        "updatedAt": "2023-09-02T03:56:18.000Z",
+        "extras": {
+          "priority": 99,
+          "content": "본문본문",
+          "tags": "LXP_COURSE",
+          "exposedStartedAt": "2023-10-02T14:59:59.000Z",
+          "exposedEndedAt": "2023-09-01T15:00:00.000Z"
+        }
+      }
+    ],
+    "products": [
+      {
+        "id": 10745,
+        "type": "ALL",
+        "state": "NORMAL",
+        "name": "주술회전상품1",
+        "description": null,
+        "extras": {
+          "isFree": false,
+          "points": {
+            "exam": 25,
+            "task": 15,
+            "total": 100,
+            "progress": 60
+          },
+          "creatorId": 10000,
+          "round": 0,
+          "updaterId": 10000,
+          "customerId": 10096,
+          "publicName": "주술회전상품1",
+          "requesterId": 10000,
+          "totalAmount": 10000,
+          "cancelAmount": 0,
+          "remainAmount": 9999,
+          "courseEndedAt": "2024-11-30T14:59:59.000Z",
+          "memberGroupId": 10085,
+          "courseStartedAt": "2023-08-29T15:00:00.000Z",
+          "isAutoEnrollment": false,
+          "registeredAmount": 1,
+          "enrollmentEndedAt": "2024-08-31T14:59:59.000Z",
+          "isEnrollmentCancel": true,
+          "enrollmentStartedAt": "2023-08-29T15:00:00.000Z",
+          "isImmediateApproval": false,
+          "criteriaForCompletion": {
+            "exam": 0,
+            "task": 0,
+            "total": 60,
+            "progress": 60
+          },
+          "enrollmentCourseNumberLimit": 10000
+        },
+        "created_at": "2023-08-30T13:55:33.308Z",
+        "enrollment": {
+          "id": 68577,
+          "type": "ENROLLMENT",
+          "state": "COMPLETED",
+          "name": "수강신청",
+          "extras": {
+            "event": "APPROVED",
+            "totalScore": 0,
+            "courseCompletion": false,
+            "classroomEnteredAt": "2023-09-05T08:46:39.964Z"
+          },
+          "created_at": "2023-08-31T01:14:18.280Z",
+          "memberId": 12625,
+          "productId": 10745,
+          "courseId": 10000
+        }
+      },
+      {
+        "id": 10746,
+        "type": "ALL",
+        "state": "NORMAL",
+        "name": "주술회전상품2",
+        "description": "",
+        "extras": {
+          "isFree": false,
+          "points": {
+            "exam": 25,
+            "task": 15,
+            "total": 100,
+            "progress": 60
+          },
+          "creatorId": 10000,
+          "round": 0,
+          "updaterId": 10000,
+          "customerId": 10096,
+          "publicName": "주술회전상품2",
+          "requesterId": 10000,
+          "totalAmount": 10000,
+          "cancelAmount": 5,
+          "remainAmount": 9994,
+          "courseEndedAt": "2024-10-31T14:59:59.000Z",
+          "memberGroupId": 10085,
+          "courseStartedAt": "2023-08-30T15:00:00.000Z",
+          "isAutoEnrollment": false,
+          "registeredAmount": 1,
+          "enrollmentEndedAt": "2024-06-30T14:59:59.000Z",
+          "isEnrollmentCancel": false,
+          "isQnaBoardExposure": true,
+          "enrollmentStartedAt": "2023-08-30T15:00:00.000Z",
+          "isImmediateApproval": true,
+          "criteriaForCompletion": {
+            "exam": 0,
+            "task": 0,
+            "total": 60,
+            "progress": 60
+          },
+          "enrollmentCourseNumberLimit": 10000
+        },
+        "created_at": "2023-08-31T01:47:16.604Z",
+        "enrollment": {
+          "id": 68578,
+          "type": "ENROLLMENT",
+          "state": "COMPLETED",
+          "name": "수강신청",
+          "extras": {
+            "event": "AUTO",
+            "totalScore": 0,
+            "courseCompletion": false,
+            "classroomEnteredAt": "2023-09-05T08:00:54.599Z"
+          },
+          "created_at": "2023-08-31T06:57:37.630Z",
+          "memberId": 12625,
+          "productId": 10746,
+          "courseId": 10000
+        },
+        "requiredCourse": {
+          "id": 11910,
+          "type": "REQUIRED_COURSE",
+          "state": "NORMAL",
+          "flags": 0,
+          "code": "",
+          "name": "필수강의",
+          "description": "",
+          "extras": {
+            "points": {
+              "exam": 35,
+              "task": 15,
+              "total": 100,
+              "progress": 50
+            },
+            "isProductPoints": false,
+            "criteriaForCompletion": {
+              "exam": 0,
+              "task": 0,
+              "total": 60,
+              "progress": 60
+            },
+            "requiredCourseEndedAt": "2023-09-30T14:59:59.000Z",
+            "requiredCourseStartedAt": "2023-08-31T07:55:56.000Z",
+            "isProductCriteriaForCompletion": true
+          },
+          "created_at": "2023-08-31T07:56:53.486Z",
+          "updated_at": "2023-08-31T07:56:53.486Z",
+          "member_id": 12625,
+          "product_id": 10746,
+          "course_id": 10000
+        }
+      },
+      {
+        "id": 10747,
+        "type": "ALL",
+        "state": "NORMAL",
+        "name": "주술회전상품3",
+        "description": null,
+        "extras": {
+          "isFree": true,
+          "points": {
+            "exam": 25,
+            "task": 15,
+            "total": 100,
+            "progress": 60
+          },
+          "creatorId": 10000,
+          "round": 0,
+          "updaterId": 10000,
+          "customerId": 10096,
+          "publicName": "주술회전상품3",
+          "requesterId": 10000,
+          "totalAmount": 1000,
+          "cancelAmount": 2,
+          "remainAmount": 997,
+          "courseEndedAt": "2024-07-31T14:59:59.000Z",
+          "memberGroupId": 10085,
+          "courseStartedAt": "2023-08-30T15:00:00.000Z",
+          "isAutoEnrollment": false,
+          "registeredAmount": 1,
+          "enrollmentEndedAt": "2024-04-30T14:59:59.000Z",
+          "isEnrollmentCancel": true,
+          "enrollmentStartedAt": "2023-08-30T15:00:00.000Z",
+          "isImmediateApproval": false,
+          "criteriaForCompletion": {
+            "exam": 0,
+            "task": 0,
+            "total": 60,
+            "progress": 60
+          },
+          "enrollmentCourseNumberLimit": 1000
+        },
+        "created_at": "2023-08-31T08:19:59.538Z",
+        "enrollment": {
+          "id": 68579,
+          "type": "ENROLLMENT",
+          "state": "COMPLETED",
+          "name": "수강신청",
+          "extras": {
+            "event": "APPROVED",
+            "totalScore": 45.1,
+            "courseCompletion": false,
+            "classroomEnteredAt": "2023-09-05T07:15:17.945Z"
+          },
+          "created_at": "2023-08-31T08:20:59.032Z",
+          "memberId": 12625,
+          "productId": 10747,
+          "courseId": 10000
+        },
+        "requiredCourse": {
+          "id": 11911,
+          "type": "REQUIRED_COURSE",
+          "state": "NORMAL",
+          "flags": 0,
+          "code": "",
+          "name": "필수강의",
+          "description": "",
+          "extras": {
+            "points": {
+              "exam": 45,
+              "task": 15,
+              "total": 100,
+              "progress": 40
+            },
+            "isProductPoints": false,
+            "criteriaForCompletion": {
+              "exam": 0,
+              "task": 0,
+              "total": 60,
+              "progress": 60
+            },
+            "requiredCourseEndedAt": "2024-03-27T14:59:59.000Z",
+            "requiredCourseStartedAt": "2023-08-31T08:44:45.000Z",
+            "isProductCriteriaForCompletion": true
+          },
+          "created_at": "2023-08-31T08:45:01.516Z",
+          "updated_at": "2023-08-31T08:45:01.516Z",
+          "member_id": 12625,
+          "product_id": 10747,
+          "course_id": 10000
+        }
+      },
+      {
+        "id": 10748,
+        "type": "ALL",
+        "state": "NORMAL",
+        "name": "주술회전상품4",
+        "description": "",
+        "extras": {
+          "isFree": false,
+          "points": {
+            "exam": 25,
+            "task": 15,
+            "total": 100,
+            "progress": 60
+          },
+          "creatorId": 10000,
+          "round": 0,
+          "updaterId": 10051,
+          "customerId": 10096,
+          "publicName": "주술회전상품4",
+          "requesterId": 10000,
+          "totalAmount": 10000,
+          "cancelAmount": 0,
+          "remainAmount": 9999,
+          "courseEndedAt": "2024-09-30T14:59:59.000Z",
+          "memberGroupId": 10085,
+          "courseStartedAt": "2023-08-31T15:00:00.000Z",
+          "isAutoEnrollment": false,
+          "registeredAmount": 1,
+          "enrollmentEndedAt": "2024-02-29T14:59:59.000Z",
+          "isEnrollmentCancel": true,
+          "isQnaBoardExposure": true,
+          "enrollmentStartedAt": "2023-08-31T15:00:00.000Z",
+          "isImmediateApproval": false,
+          "criteriaForCompletion": {
+            "exam": 0,
+            "task": 0,
+            "total": 60,
+            "progress": 60
+          },
+          "enrollmentCourseNumberLimit": 10000
+        },
+        "created_at": "2023-09-01T12:31:52.870Z",
+        "enrollment": {
+          "id": 68580,
+          "type": "ENROLLMENT",
+          "state": "COMPLETED",
+          "name": "수강신청",
+          "extras": {
+            "event": "APPROVED",
+            "totalScore": 0,
+            "courseCompletion": false,
+            "classroomEnteredAt": "2023-09-01T13:43:53.941Z"
+          },
+          "created_at": "2023-09-01T12:32:25.111Z",
+          "memberId": 12625,
+          "productId": 10748,
+          "courseId": 10000
+        }
+      }
+    ]
+  }
+}

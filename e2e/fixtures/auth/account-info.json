@@ -1,0 +1,29 @@
+{
+  "id": 10275,
+  "type": "STUDENT",
+  "state": "NORMAL",
+  "name": "skillflo@skillflo.io",
+  "description": null,
+  "extras": {
+    "skills": [
+      {
+          "level": "5",
+          "skill": {
+              "depth1stId": 10000,
+              "depth2ndId": 10017
+          },
+          "goalLevel": "7"
+      }
+    ],
+    "displayName": "skillflo@skillflo.io",
+    "isInterestsNextTime": true,
+    "marketingAgreeStatus": false,
+    "personalInfoAgreedAt": "2023-04-09T10:00:33.549Z",
+    "marketingAgreeUpdateAt": "2023-04-09T10:00:33.549Z",
+    "marketingEmailAgreeStatus": false,
+    "marketingPhoneAgreeStatus": false,
+    "marketingEmailAgreeUpdateAt": "2023-04-09T10:00:33.549Z",
+    "marketingPhoneAgreeUpdateAt": "2023-04-09T10:00:33.549Z"
+  },
+  "created_at": "2023-04-09T10:00:00.592Z"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 10405,
+    "type": "CLIP",
+    "state": "ONGOING",
+    "flags": null,
+    "code": null,
+    "name": null,
+    "description": null,
+    "extras": {
+      "position": 15.91179,
+      "timeRange": [
+        {
+          "end": 15.91179,
+          "start": 0,
+          "interval": 15.91179
+        }
+      ],
+      "isCompleted": false
+    },
+    "created_at": "2023-04-09T15:34:58.686Z",
+    "updated_at": "2023-04-09T15:35:00.000Z",
+    "memberId": 10511,
+    "productId": 10085,
+    "courseId": 10000,
+    "courseContentId": 10000
+  }
+]

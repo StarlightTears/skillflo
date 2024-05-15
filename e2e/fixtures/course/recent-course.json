@@ -1,0 +1,143 @@
+{
+  "data": {
+    "recentCourses": [
+      {
+        "id": 10168,
+        "state": "NORMAL",
+        "type": "ONLINE",
+        "name": "초격차 패키지 : 한 번에 끝내는 퀀트(금융공학) 실무",
+        "extras": {
+          "thumbnail": {
+            "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202207/025145-472/퀀트--1-.png",
+            "name": "퀀트 (1).png"
+          },
+          "publicName": "한 번에 끝내는 퀀트(금융공학) 실무 초격차 패키지 Online. ",
+          "contractEndAt": "2025-06-19 00:00:00",
+          "totalPlayTime": 701253,
+          "contractBeginAt": "2022-04-20 00:00:00",
+          "exposedCategory": [
+            {
+              "depth1stId": 10009,
+              "depth2ndId": 10061
+            },
+            {
+              "depth1stId": 10007,
+              "depth2ndId": 10054
+            }
+          ],
+          "totalCourseContentCount": 601
+        },
+        "product": {
+          "id": 10003,
+          "type": "ALL",
+          "state": "NORMAL",
+          "name": "B2B - All Plan",
+          "extras": {
+            "isFree": false,
+            "publicName": "B2B - All Plan",
+            "courseEndedAt": "2050-12-31T14:59:59.000Z",
+            "courseStartedAt": "2023-03-02T15:00:00.000Z",
+            "originProductId": 10000,
+            "enrollmentEndedAt": "2050-12-31T14:59:59.000Z",
+            "enrollmentStartedAt": "2023-03-02T15:00:00.000Z"
+          }
+        },
+        "periodPermissions": ["APPLY", "ONGOING"],
+        "enrollment": {
+          "courseId": 10168,
+          "memberId": 10718,
+          "productId": 10003,
+          "id": 62520,
+          "state": "COMPLETED",
+          "type": "ENROLLMENT",
+          "extras": {
+            "event": "AUTO",
+            "totalScore": 0,
+            "courseCompletion": false,
+            "classroomEnteredAt": "2023-08-29T06:30:23.681Z"
+          }
+        }
+      },
+      {
+        "id": 10000,
+        "state": "NORMAL",
+        "type": "ONLINE",
+        "name": "올인원 패키지 : C#과 유니티로 배우는 게임개발",
+        "extras": {
+          "thumbnail": {
+            "url": "https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202111/110220-472/게임형---c-과-유니티로-배우는-게임-개발.jpg",
+            "name": "게임형 _ C#과 유니티로 배우는 게임 개발.jpg"
+          },
+          "publicName": "C#과 유니티로 배우는 게임 개발 올인원 패키지 Online test 킹갓언리얼",
+          "contractEndAt": "2030-12-31 00: 00: 00",
+          "totalPlayTime": 197441,
+          "contractBeginAt": "2020-01-21 00:00:00",
+          "exposedCategory": [
+            {
+              "depth1stId": 10000,
+              "depth2ndId": 10012
+            }
+          ],
+          "totalCourseContentCount": 177
+        },
+        "product": {
+          "id": 10003,
+          "type": "ALL",
+          "state": "NORMAL",
+          "name": "B2B - All Plan",
+          "extras": {
+            "isFree": false,
+            "publicName": "B2B - All Plan",
+            "courseEndedAt": "2050-12-31T14:59:59.000Z",
+            "courseStartedAt": "2023-03-02T15:00:00.000Z",
+            "originProductId": 10000,
+            "enrollmentEndedAt": "2050-12-31T14:59:59.000Z",
+            "enrollmentStartedAt": "2023-03-02T15:00:00.000Z"
+          }
+        },
+        "periodPermissions": ["APPLY", "ONGOING"],
+        "requiredCourse": {
+          "id": 11864,
+          "type": "REQUIRED_COURSE",
+          "state": "NORMAL",
+          "name": "필수강의",
+          "member_id": 10718,
+          "course_id": 10000,
+          "product_id": 10003,
+          "extras": {
+            "points": {
+              "exam": 0,
+              "task": 0,
+              "total": 100,
+              "progress": 100
+            },
+            "isProductPoints": true,
+            "criteriaForCompletion": {
+              "exam": 0,
+              "task": 0,
+              "total": 80,
+              "progress": 80
+            },
+            "requiredCourseEndedAt": "2050-12-31T14:59:59.000Z",
+            "requiredCourseStartedAt": "2023-07-04T02:35:17.974Z",
+            "isProductCriteriaForCompletion": true
+          }
+        },
+        "enrollment": {
+          "courseId": 10000,
+          "memberId": 10718,
+          "productId": 10003,
+          "id": 62352,
+          "state": "COMPLETED",
+          "type": "ENROLLMENT",
+          "extras": {
+            "event": "AUTO",
+            "totalScore": 1.5,
+            "courseCompletion": false,
+            "classroomEnteredAt": "2023-07-31T07:29:06.054Z"
+          }
+        }
+      }
+    ]
+  }
+}

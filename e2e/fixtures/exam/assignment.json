@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 5992,
+      "name": "test",
+      "extras": {
+        "earnedScore": null,
+        "totalScore": 4,
+        "canSolvedCount": 1,
+        "category": "SELECTION",
+        "partId": null,
+        "chapterId": null,
+        "timeLimit": 0,
+        "courseId": 10000,
+        "progressStatus": null,
+        "evaluationStatus": null
+      }
+    }
+  ],
+  "meta": {
+    "total": {
+      "count": 1
+    }
+  }
+}

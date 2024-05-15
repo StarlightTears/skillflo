@@ -1,0 +1,100 @@
+{
+  "data": {
+    "studyGuide": {
+      "title": "학습가이드",
+      "pageIds": [
+          10008,
+          10009,
+          10010
+      ],
+      "subtitle": "내게 알맞은 학습 순서가 궁금하다면?",
+      "description": "원하는 키워드를 선택하세요. ",
+      "pages": [
+          {
+              "keywords": [],
+              "logoFile": [
+                  {
+                      "url": "https://storage.googleapis.com/gcs-skillflo-assets/production/20230420125148_0/Thumbnail1.png",
+                      "file": {},
+                      "name": "Thumbnail1.png",
+                      "type": "image/png"
+                  }
+              ],
+              "originPageId": 37379
+          },
+          {
+              "keywords": [],
+              "logoFile": [
+                  {
+                      "url": "https://storage.googleapis.com/gcs-skillflo-assets/production/20230420125230_0/Thumbnail2.png",
+                      "file": {},
+                      "name": "Thumbnail2.png",
+                      "type": "image/png"
+                  }
+              ],
+              "originPageId": 37381
+          },
+          {
+              "keywords": [],
+              "logoFile": [
+                  {
+                      "url": "https://storage.googleapis.com/gcs-skillflo-assets/production/20230420125534_0/Thumbnail3.png",
+                      "file": {},
+                      "name": "Thumbnail3.png",
+                      "type": "image/png"
+                  }
+              ],
+              "originPageId": 37391
+          }
+      ]
+  },
+    "exhibition": {
+      "title": "스테디셀러 라인업",
+      "pageIds": [
+          10005,
+          10006,
+          10007
+      ],
+      "subtitle": "분야별로 꾸준히 ",
+      "description": "대표 강의",
+      "pages": [
+          {
+              "keywords": [],
+              "logoFile": [
+                  {
+                      "url": "https://storage.googleapis.com/gcs-skillflo-assets/production/20230420124444_0/6역대급갓성비한번에끝내는UXUI.png",
+                      "file": {},
+                      "name": "6역대급갓성비한번에끝내는UXUI.png",
+                      "type": "image/png"
+                  }
+              ],
+              "redirectUrl": "/course/10178"
+          },
+          {
+              "keywords": [],
+              "logoFile": [
+                  {
+                      "url": "https://storage.googleapis.com/gcs-skillflo-assets/production/20230420124513_0/714년차프로덕트오너가서비스를성장시키는방법.png",
+                      "file": {},
+                      "name": "714년차프로덕트오너가서비스를성장시키는방법.png",
+                      "type": "image/png"
+                  }
+              ],
+              "redirectUrl": "/course/10111"
+          },
+          {
+              "keywords": [],
+              "logoFile": [
+                  {
+                      "url": "https://storage.googleapis.com/gcs-skillflo-assets/production/20230420124542_0/87일만에끝내는디지털마케팅광고집행실무.png",
+                      "file": {},
+                      "name": "87일만에끝내는디지털마케팅광고집행실무.png",
+                      "type": "image/png"
+                  }
+              ],
+              "redirectUrl": "/course/10128"
+          }
+      ]
+  }
+  }
+}

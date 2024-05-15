@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 10036,
+      "type": "NONE",
+      "state": "NORMAL",
+      "flags": null,
+      "code": null,
+      "name": "Skillflo_MemberGroup1",
+      "description": null,
+      "extras": {
+        "points": {
+          "exam": 25,
+          "task": 15,
+          "total": 100,
+          "survey": 0,
+          "progress": 60
+        },
+        "siteEnter": "- 강의장: https://skillflo.io",
+        "contractId": "10020",
+        "customerId": "10046",
+        "sendNotification": true,
+        "criteriaForCompletion": {
+          "exam": 0,
+          "task": 0,
+          "total": 60,
+          "survey": 0,
+          "progress": 60
+        },
+        "isShowCertificationButton": true
+      },
+      "created_at": "2023-04-08T16:48:36.140Z",
+      "updated_at": "2023-04-08T16:48:36.140Z"
+    }
+  ]
+}
